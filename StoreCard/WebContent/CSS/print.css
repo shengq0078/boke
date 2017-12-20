@@ -1,0 +1,123 @@
+body {
+    padding:0px;
+    margin:0px;
+    -webkit-print-color-adjust: exact;
+    font-family: "MS PGothic", "Osaka", Arial, sans-serif;
+}
+font{barcodeImg
+	padding:0px;
+    margin:0px;
+}
+.barcodeImg {
+	width:auto;
+	height:auto;
+	Float:left;
+	padding:0px;
+	margin:0px;
+	margin-left: 30px;
+    margin-top:9px;
+}
+table{
+	width:auto;
+	height:auto;
+	padding:0px;
+	margin:0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.store {
+	width:auto;
+	height:auto;
+	padding:0px;
+	margin:0px;
+	font-weight:bold;
+	margin-top: 45px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Ename {
+	width:auto;
+	height:auto;
+	padding:0px;
+	margin:0px;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Ename1 {
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+.Middle {
+	width:1px;
+	height:230px;
+	background-color:#AAAAAA;
+	Float:left;
+	padding:0px;
+    margin:0px;
+}
+.Middle3 {
+	width:1px;
+	height:230px;
+	background-color:#AAAAAA;
+	Float:left;
+	padding:0px;
+    margin:0px;
+}
+.Middle1 {
+	width:800px;
+	height:1px;
+	background-color:#AAAAAA;
+	Float:left;
+	padding:0px;
+    margin:0px;
+}
+.Middle4 {
+	width:800px;
+	height:1px;
+	Float:left;
+	padding:0px;
+    margin:0px;
+}
+.Middle2 {
+	width:800px;
+	height:1px;
+	background-color:#AAAAAA;
+	Float:left;
+	padding:0px;
+    margin:0px;
+}
+.Middle5 {
+	width:1px;
+	height:230px;
+	Float:left;
+	padding:0px;
+    margin:0px;
+}
+#header {
+	width:800px;
+	height:auto !important;
+	padding:0px;
+    margin:0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.card {
+	Float:left;
+	width:398px;
+	height:231px;
+	text-align:center;
+	padding:0px;
+    margin:0px;
+	background-image:url(../image/trial.gif); 
+	-moz-background-size: 100% 100%; 
+	-o-background-size: 100% 100%; 
+	-webkit-background-size: 100% 100%; 
+	background-size: 100% 100%; 
+	-moz-border-image: url(../image/trial.gif) 0; 
+	background-repeat:no-repeat\9; 
+	background-image:none\9; 
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../image/trial.gif', sizingMethod='scale')\9;  
+}
